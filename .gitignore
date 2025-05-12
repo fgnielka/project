@@ -1,8 +1,8 @@
 .Rhistory
 .RData
 .Rproj.user
-*.html
 *.pdf
+*.html
 *_withnotes.*
 *_bright.*
 images/
